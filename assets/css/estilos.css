@@ -1,0 +1,67 @@
+body {
+    font-family: 'Roboto';
+    color: aliceblue;
+
+
+
+}
+
+.card {
+    border: solid black;
+    padding: 10%;
+    background-color: rgb(32, 0, 44);
+    text-align: center;
+   
+
+}
+
+.title {
+    padding-bottom: 5%;
+    border-bottom: solid rgb(255, 0, 149);
+}
+
+
+
+.card1 {
+    text-align: center;
+    background-color: rgb(44, 5, 58);
+    padding: 10%;
+}
+
+.input {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin: 5%;
+    padding: 2%;
+}
+
+
+
+.select {
+
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: white;
+    border: solid 1px black;
+  
+
+}
+
+button {
+    margin-top: 3%;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: solid rgb(53, 2, 32);
+    background-color: rgb(255, 0, 149);
+    border-radius: 8px;
+    color: white;
+
+}
+
+.input{
+    background-color: rgb(177, 0, 109)
+}
